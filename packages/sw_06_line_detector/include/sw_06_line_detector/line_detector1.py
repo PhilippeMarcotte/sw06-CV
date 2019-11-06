@@ -1,6 +1,6 @@
 import cv2
-import sw_06_cv_functions as sw06
-# import sw_06_cv_actual_functions as sw06
+# import sw_06_cv_functions as sw06
+import sw_06_cv_actual_functions as sw06
 import duckietown_utils as dtu
 
 import numpy as np
